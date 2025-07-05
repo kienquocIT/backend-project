@@ -34,6 +34,7 @@ A simple command-line interface app to manage your to-dos. Built with Go.
 
 > 📂 Explore: [`tasktracker`](./tasktracker)
 [GitHub Repository](https://github.com/kienquocIT/backend-project/tree/main/tasktracker)
+[Project URL](https://roadmap.sh/projects/task-tracker)
 
 
 ---
