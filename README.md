@@ -36,6 +36,17 @@ A simple command-line interface app to manage your to-dos. Built with Go.
 [GitHub Repository](https://github.com/kienquocIT/backend-project/tree/main/tasktracker)
 [Project URL](https://roadmap.sh/projects/task-tracker)
 
+### ✅ [Expense Tracker CLI](./expense/README.md)
+
+A simple command-line interface app to manage your to-dos. Built with Go.
+
+- Add new expense
+- List all expense
+- Delete expense
+
+> 📂 Explore: [`tasktracker`](./expensetracker)
+[Project URL](https://roadmap.sh/projects/expense-tracker)
+
 
 ---
 
